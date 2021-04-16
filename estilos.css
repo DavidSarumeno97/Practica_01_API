@@ -1,0 +1,64 @@
+        .imagen {
+            width: 300px;
+            height: 200px;
+            display: block;
+            margin: auto;
+            border: 8px solid currentColor;
+            color: black;
+        }
+        
+        h5 {
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+            color: rgb(52, 226, 8);
+        }
+        
+        p {
+            text-align: justify;
+            font-size: 60%;
+        }
+        
+        .scroll-vertical {
+            overflow-y: scroll;
+            width: 100%;
+        }
+        
+        html {
+            display: block;
+        }
+        
+        .tamano {
+            width: 100%;
+        }
+        
+        header {
+            padding: 156px 0 100px;
+        }
+        
+        body {
+            background-color: dimgrey;
+            font-family: system-ui;
+            text-align: center;
+        }
+        
+        .texto {
+            background-color: dimgrey;
+            color: white;
+            font-size: 0.6cm;
+            font-family: cursive;
+        }
+        
+        .texto1 {
+            font-size: 0.6cm;
+            font-family: cursive;
+            color: black;
+            text-align: center;
+        }
+        
+        .generar {
+            color: rgb(52, 226, 8);
+            border: black 8px solid;
+            border-image-slice: 27;
+            padding: 10px;
+            text-align: center;
+        }
